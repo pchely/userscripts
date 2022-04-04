@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Сообщения Модератора
 // @namespace    https://github.com/pchely/userscripts
-// @version      1.0
+// @version      1.1
 // @description  Шаблоны сообщений для модераторов чата Фоксфорда
 // @author       skhrvg
-// @match        https://foxford.webinar.netology-group.services/*
+// @match        https://*.netology-group.services/*
 // @grant        none
 // @updateURL    https://github.com/pchely/userscripts/raw/master/ModeratorMessages.user.js
 // @downloadURL  https://github.com/pchely/userscripts/raw/master/ModeratorMessages.user.js
