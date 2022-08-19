@@ -4,7 +4,7 @@
 // @version      1.2
 // @description  Шаблоны сообщений для модераторов чата Фоксфорда
 // @author       skhrvg
-// @match        https://*.netology-group.services/*
+// @match        https://apps.foxford.ru/webinar/*
 // @grant        none
 // @updateURL    https://github.com/pchely/userscripts/raw/master/ModeratorMessages.user.js
 // @downloadURL  https://github.com/pchely/userscripts/raw/master/ModeratorMessages.user.js
